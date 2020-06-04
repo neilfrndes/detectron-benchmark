@@ -1,0 +1,4 @@
+pycocotools
+torch==1.5
+--extra-index-url https://dl.fbaipublicfiles.com/detectron2/wheels/cu101/torch1.5/index.html
+detectron2
