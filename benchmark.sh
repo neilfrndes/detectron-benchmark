@@ -10,3 +10,4 @@ pip install detectron2==0.1.3 -f https://dl.fbaipublicfiles.com/detectron2/wheel
 wget http://images.cocodataset.org/zips/val2017.zip -O coco.zip
 
 # Run the benchmark
+python run.py
